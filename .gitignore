@@ -1,0 +1,13 @@
+
+.claude
+.claude/
+.env
+venv/
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
+*.log
+*.bak
+*.tmp
+skills-lock.json
